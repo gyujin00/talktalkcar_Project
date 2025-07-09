@@ -82,9 +82,3 @@ GPT API 기반 AI 어시스턴트 화면: ![image](https://github.com/user-attac
 - [TalkTalkCar 최종 발표 PPT 보기](docs/TalkTalkCar_0611(%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT).pptx)
 
 
-👤 나의 역할 (차규진)
-- Flutter 프론트엔드 개발 (UI/UX, 음성인식, TTS 기능)
-
-- WebSocket 실시간 통신 연동
-
-- 접근성 및 응급 알림 UI 설계
