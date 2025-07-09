@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/72955cbe-7e38-4fec-9fa0-256b11342a9a)
+
 🚗 TalkTalkCar
 
 시각장애인을 위한 음성명령 차량 제어 시스템
