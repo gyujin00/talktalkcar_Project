@@ -65,8 +65,9 @@ GPT API 기반 AI 어시스턴트 화면: ![image](https://github.com/user-attac
 
 
 📄최종 보고서 및 발표자료
-- [TalkTalkCar 최종보고서 보기](docs/TalkTalkCar_Final_Report.pdf)
-- [TalkTalkCar 최종 발표 PPT 보기](docs/TalkTalkCar_Final_PPT.pptx)
+
+- [TalkTalkCar 최종보고서 보기](docs/%5B캡스톤_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C%5D.pdf)
+- [TalkTalkCar 최종 발표 PPT 보기](docs/TalkTalkCar_0611(%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT).pptx)
 
 📝 나의 역할
 
