@@ -57,19 +57,20 @@ images: 스크린샷 이미지
 
 [화면 구성] 
 
-앱 로그인 화면: 
-![image](https://github.com/user-attachments/assets/7967498e-a2cc-4384-b1f8-aa3f8f93d08c)
+1) 앱 로그인 화면: 
+![image](https://github.com/user-attachments/assets/8a8b15b6-36d8-4f02-af30-ffb508191510)
 
-음성명령 인식 화면: 
+
+2) 음성명령 인식 화면: 
 ![image](https://github.com/user-attachments/assets/f8d01aaf-7ba4-4d57-a720-78865a655e4e)
 
-명령 실행 결과 화면: 
+3) 명령 실행 결과 화면: 
 ![image](https://github.com/user-attachments/assets/85d7f055-a6c4-4ca3-9b80-ada61ab6cd7d)
 
-GPT API 기반 AI 어시스턴트 화면: 
+4) GPT API 기반 AI 어시스턴트 화면: 
 ![image](https://github.com/user-attachments/assets/cc6d08dd-bdcd-4ac4-80a1-ac8abf2a785d)
 
-비상상황 알림 화면: 
+5) 비상상황 알림 화면: 
 ![image](https://github.com/user-attachments/assets/8b5a83e6-6464-4575-af5d-29fe8079a24b)
 
 
