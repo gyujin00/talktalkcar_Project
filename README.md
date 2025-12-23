@@ -59,12 +59,11 @@ images: 스크린샷 이미지
 
 앱 메인 화면: ![image](https://github.com/user-attachments/assets/1d97ffa8-38af-43b0-92cb-9b722282b2b5)
 
-음성명령 인식 화면: ![image](https://github.com/user-attachments/assets/404d26cb-5760-4581-8afb-960ab1060568)
 음성명령 인식 화면: ![image](https://github.com/user-attachments/assets/f8d01aaf-7ba4-4d57-a720-78865a655e4e)
 
-명령 실행 결과 화면: ![image](https://github.com/user-attachments/assets/b666678d-1288-4a5e-bf31-eed71d51694a)
+명령 실행 결과 화면: ![image](https://github.com/user-attachments/assets/85d7f055-a6c4-4ca3-9b80-ada61ab6cd7d)
 
-GPT API 기반 AI 어시스턴트 화면: ![image](https://github.com/user-attachments/assets/149b9e79-abff-4c78-9b10-2a16e438362f)
+GPT API 기반 AI 어시스턴트 화면: ![image](https://github.com/user-attachments/assets/cc6d08dd-bdcd-4ac4-80a1-ac8abf2a785d)
 
 비상상황 알림 화: ![image](https://github.com/user-attachments/assets/8b5a83e6-6464-4575-af5d-29fe8079a24b)
 
