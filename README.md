@@ -60,7 +60,7 @@ images: 스크린샷 이미지
 앱 메인 화면: ![image](https://github.com/user-attachments/assets/1d97ffa8-38af-43b0-92cb-9b722282b2b5)
 
 음성명령 인식 화면: ![image](https://github.com/user-attachments/assets/404d26cb-5760-4581-8afb-960ab1060568)
-<img width="537" height="778" alt="image" src="https://github.com/user-attachments/assets/f8d01aaf-7ba4-4d57-a720-78865a655e4e" />
+음성명령 인식 화면: ![image](https://github.com/user-attachments/assets/f8d01aaf-7ba4-4d57-a720-78865a655e4e)
 
 명령 실행 결과 화면: ![image](https://github.com/user-attachments/assets/b666678d-1288-4a5e-bf31-eed71d51694a)
 
