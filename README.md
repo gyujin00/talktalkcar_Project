@@ -60,7 +60,6 @@ images: 스크린샷 이미지
 1) 앱 로그인 화면: 
 ![image](https://github.com/user-attachments/assets/8a8b15b6-36d8-4f02-af30-ffb508191510)
 
-
 2) 음성명령 인식 화면: 
 ![image](https://github.com/user-attachments/assets/f8d01aaf-7ba4-4d57-a720-78865a655e4e)
 
@@ -71,12 +70,14 @@ images: 스크린샷 이미지
 ![image](https://github.com/user-attachments/assets/cc6d08dd-bdcd-4ac4-80a1-ac8abf2a785d)
 
 5) 비상상황 알림 화면: 
-![image](https://github.com/user-attachments/assets/8b5a83e6-6464-4575-af5d-29fe8079a24b)
+![image](https://github.com/user-attachments/assets/94d69583-0e87-407c-af04-34972439a9f0)
+
 
 
 📄최종 보고서 및 발표자료
 
 - [TalkTalkCar 최종보고서 보기](docs/%5B캡스톤_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C%5D.pdf)
+- 
 - [TalkTalkCar 최종 발표 PPT 보기](docs/TalkTalkCar_0611(%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT).pptx)
 
 
