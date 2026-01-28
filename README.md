@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/0f980f80-90f1-49b2-88f4-43a90ffe68a9)
+<img width="3402" height="5292" alt="톡톡카팀_TalkTalk_Car" src="https://github.com/user-attachments/assets/68e6db88-c731-43b2-8215-b9362c0c5a0e" />
+
 
 ![image](https://github.com/user-attachments/assets/69a435b6-b46c-45c8-9264-6a2796416bdd)
 ![image](https://github.com/user-attachments/assets/2e863443-3b9f-4b35-b05b-f7b2eae9f1b7)
