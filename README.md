@@ -79,6 +79,6 @@ images: 스크린샷 이미지
 [최종 보고서 및 발표자료]
 
 - [TalkTalkCar 최종보고서 보기](docs/TalkTalkCar-%20보고서.pdf)
-- [TalkTalkCar 최종 발표 PPT 보기](docs/TalkTalkCar_0611(%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT).pptx)
+
 
 
